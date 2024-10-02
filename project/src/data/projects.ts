@@ -1,7 +1,7 @@
 // src/data/projects.js
 const projects = [
   {
-    imgPath: "./src/assets/project.jpg",
+    imgPath: "/project.jpg",
     projectTitle: "Task Management System",
     projectDescription:"A simple Task Management System built using MERN Stack. This system allows users to manage their tasks with features like task creation, updating, and deletion.",
     techStack: ["MERN Stack"],
@@ -11,7 +11,7 @@ const projects = [
 
   },
   {
-    imgPath: "./src/assets/project.jpg",
+    imgPath: "/project.jpg",
     projectTitle: "Enhanced Contact-Us-System",
     projectDescription:"Enhanced Contact Us System is a web application where users can submit their queries, and upon submission, an automatic email is sent to the user confirming that their message has been received",
     techStack: ["MERN Stack"],
@@ -21,7 +21,7 @@ const projects = [
 
   },
   {
-    imgPath: "./src/assets/project.jpg",
+    imgPath: "/project.jpg",
     projectTitle: "Simple Management System with Admin Panel",
     projectDescription:"Create a simple management system with an Admin Panel that allows monitoring and managing product information and users.",
     techStack: ["MERN Stack"],
@@ -31,7 +31,7 @@ const projects = [
 
   },
   {
-    imgPath: "./src/assets/project.jpg",
+    imgPath: "/project.jpg",
     projectTitle: "Transaction DashBoard",
     projectDescription:"Transaction Dashboard is a web application that allows users to track, manage, and visualize their financial transactions in a simple and organized way",
     techStack: ["MERN Stack"],
@@ -41,7 +41,7 @@ const projects = [
 
   },
     {
-      imgPath: "./src/assets/project.jpg",
+      imgPath: "/project.jpg",
       projectTitle: "Password Handler",
       projectDescription:"Developed a password Handler using React, allowing users to securely save and retrieve site names, usernames, and passwords. Simplified user access to their login credentials.",
       techStack: ["React"],
@@ -52,7 +52,7 @@ const projects = [
 
     },
     {
-      imgPath: "./src/assets/project.jpg",
+      imgPath: "/project.jpg",
       projectTitle: "Spotify-Dummy",
       projectDescription:  "Developed a basic version of Spotify clone to demonstrate fundamental web development skills and understanding of music streaming applications.",
       techStack: ["HTML", "CSS", "Javascript"],
@@ -62,7 +62,7 @@ const projects = [
 
     },
     {
-      imgPath: "./src/assets/project.jpg",
+      imgPath: "./project.jpg",
       projectTitle: "Speech-to-Text-Converter",
       projectDescription:"My Speech to Text Converter web application showcases the power of real-time speech recognition.",
       techStack: ["React"],
@@ -72,7 +72,7 @@ const projects = [
 
     },
     {
-      imgPath: "./src/assets/project.jpg",
+      imgPath: "/project.jpg",
       projectTitle: "Image Serach Engine",
       projectDescription: "Excited to unveil my Image Search Engine, a project born out of my exploration of frontend development Skills.",
       techStack:["HTML", "CSS", "Javascript","unsplash API"],
@@ -82,7 +82,7 @@ const projects = [
 
     },
     {
-      imgPath: "./src/assets/project.jpg",
+      imgPath: "/project.jpg",
       projectTitle: "Restaurant management system",
       projectDescription: "Explore my portfolio showcasing a beautifully crafted restaurant management system design, where innovation meets seamless user experiences." ,
       techStack: ["Figma platform"],
@@ -92,7 +92,7 @@ const projects = [
 
     },
     {
-      imgPath: "./src/assets/project.jpg",
+      imgPath: "/project.jpg",
       projectTitle: "Rock-paper-Scissor",
       projectDescription: "Introducing my newly crafted Rock-Paper-Scissors game, a testament to my journey in mastering frontend development fundamentals with a fun and interactive twist!",
       techStack:["HTML", "CSS", "Javascript"],
@@ -102,7 +102,7 @@ const projects = [
 
     },
     {
-      imgPath: "./src/assets/project.jpg",
+      imgPath: "/project.jpg",
       projectTitle:  "Tic Tak Toe Game",
       projectDescription:"A sleek and interactive Tic Tac Toe game, showcasing my passion for intuitive UI design and engaging user experiences.",
       techStack:["HTML", "CSS", "Javascript"],
@@ -112,7 +112,7 @@ const projects = [
 
     },
     {
-      imgPath: "./src/assets/project.jpg",
+      imgPath: "/project.jpg",
       projectTitle: "Currency Converter",
       projectDescription: "This is a project made to learn the Fundamental of JavaScript programming language.",
       techStack: ["HTML", "CSS", "Javascript","API"],

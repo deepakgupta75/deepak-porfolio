@@ -198,7 +198,7 @@ export default function Component() {
 </div>
               </div>
               <img
-                src="./src/assets/deepak.jpeg"
+                src="/deepak.jpeg"
                 width="400"
                 height="400"
                 alt="Hero"
